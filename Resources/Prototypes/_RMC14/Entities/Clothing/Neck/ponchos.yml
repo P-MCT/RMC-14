@@ -4,8 +4,6 @@
   name: UNCM Poncho (Green)
   description: The standard USCM poncho has variations for every climate. Custom fitted to be attached to standard UNCM armor variants it is comfortable, warming or cooling as needed, and well-fit.
   components:
-  - type: Item
-    size: Small
   - type: Clothing
     slots: _RMC14/Objects/Clothing/Neck/Poncho/greenponcho.rsi
   - type: Sprite
